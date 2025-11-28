@@ -30,7 +30,7 @@ Se implementa una VPN de Acceso Remoto  utilizando el protocolo **IPsec**. Esto 
 <p align="center">
 <a href="images/TopologiaVPN.png">Topología</a> | <a href="packet-tracer/">Packet Tracer</a> | <a href="config/router-home.md">Conf router home</a> | <a href="config/router-internet.md">Conf router internet</a> | <a href="config/router-empresa.md">Conf router empresa</a> </p>
 
-## 🏗️ Arquitectura de Red
+## 🏗️ Arquitectura de red
 
 La topología consta de tres segmentos principales:
 
@@ -38,7 +38,7 @@ La topología consta de tres segmentos principales:
 2.  **Internet :** Simula la infraestructura pública. Conecta el sitio remoto con la empresa mediante enlaces seriales.
 3.  **LAN Empresa (10.10.129.0/24):** Red interna empresarial. Aquí se encuentra un  servidor de destino y las pcs de la red interna.
 
-## 🚀 Instalación y Uso
+## 🚀 Instalación y uso
 
 1.  **Requisitos:** Necesitas tener instalado **Cisco Packet Tracer** (versión 7.3 o superior recomendada).
 2.  **Clonar el repositorio:**
