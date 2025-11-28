@@ -29,7 +29,7 @@ exit
 ip route 0.0.0.0 0.0.0.0 serial 0/0/0
 ```
 
-### Configuración de ACL
+### Configuración de ACL y NAT
 
 ```bash
 ip access-list standard ACL_NAT
