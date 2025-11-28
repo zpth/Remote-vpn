@@ -45,7 +45,7 @@ La topología consta de tres segmentos principales:
     ```bash
     git clone [https://github.com/TU_USUARIO/nombre-repo-vpn.git](https://github.com/TU_USUARIO/nombre-repo-vpn.git)
     ```
-3.  **Abrir la simulación:** Carga el archivo `.pkt` ubicado en la carpeta `simulation/`.
+3.  **Abrir la simulación:** Carga el archivo `.pkt` ubicado en la carpeta `packet-tracer/`.
 
 ### 🧪 Probar la conexión VPN
 
