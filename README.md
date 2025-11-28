@@ -28,7 +28,7 @@ Se implementa una VPN de Acceso Remoto  utilizando el protocolo **IPsec**. Esto 
 
 </p>
 <p align="center">
-<a href="images/dmz-topology.png">Topología</a> | <a href="packet-tracer/">Packet Tracer</a> | <a href="config/swithc-lan.md">Configuración VLAN</a> | <a href="config/isp.md">Configuración ISP</a> | <a href="config/router-lan.md">Configuración Router Lan</a> </p>
+<a href="images/ToplogiaVPN.png">Topología</a> | <a href="packet-tracer/">Packet Tracer</a> | <a href="config/swithc-lan.md">Configuración VLAN</a> | <a href="config/isp.md">Configuración ISP</a> | <a href="config/router-lan.md">Configuración Router Lan</a> </p>
 
 ## 🏗️ Arquitectura de Red
 
