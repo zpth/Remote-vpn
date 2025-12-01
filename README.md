@@ -13,7 +13,7 @@ Se implementa una VPN de Acceso Remoto  utilizando el protocolo **IPsec**. Esto 
 <table align="center">
 <tr>
 <td>
-
+https://github.com/user-attachments/assets/7d58194e-1d15-459c-b5ba-c08b1ea36294
 <h3 align="center">Tecnologías implementadas</h3>
 <ul>
     <li><b>IPsec</b> – Protocolo principal para la seguridad del túnel y encapsulamiento.</li>
