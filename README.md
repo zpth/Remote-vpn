@@ -10,10 +10,11 @@ Este proyecto simula un escenario de **red corporativa segura** donde un emplead
 
 Se implementa una VPN de Acceso Remoto  utilizando el protocolo **IPsec**. Esto permite que el tráfico viaje encriptado desde la laptop del usuario en su casa hasta el router de borde de la empresa, garantizando confidencialidad, integridad y autenticación.
 
+https://github.com/user-attachments/assets/7d58194e-1d15-459c-b5ba-c08b1ea36294
+
 <table align="center">
 <tr>
 <td>
-https://github.com/user-attachments/assets/7d58194e-1d15-459c-b5ba-c08b1ea36294
 <h3 align="center">Tecnologías implementadas</h3>
 <ul>
     <li><b>IPsec</b> – Protocolo principal para la seguridad del túnel y encapsulamiento.</li>
